@@ -1,0 +1,2 @@
+a = ['Hello', 'beauty']
+print (a[1], a[0])
